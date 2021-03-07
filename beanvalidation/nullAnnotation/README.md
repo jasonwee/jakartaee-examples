@@ -1,3 +1,3 @@
 # A @NotNull example
 
-This example demonstrates how to use @NotNull.
+This example demonstrates how to use @Null.
